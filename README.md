@@ -1,5 +1,9 @@
 # Express: CRUD de usuário + permissão de administrador
 
+Este é um projeto de CRUD de usuário, com permissão de administrador. Entre os requisitos, o serviço possui uma API REST, e os demais serviços consiguem criar, listar, atualizar e deletar usuários de um banco de dados.
+
+#
+
 Para inciar este projeto, é necessário instalar as dependências, que serão utilizadas nos testes. Portanto utilize o comando abaixo para instalar tais dependências:
 
 ````
@@ -133,4 +137,4 @@ E logo abaixo da lista de testes executados irá aparecer uma ou mais mensagens,
 
 `````
 #
-### Agora que já sabe como iniciar o seu projeto, rodar os testes e lê-los, é hora de colocar a mão no código!
+
